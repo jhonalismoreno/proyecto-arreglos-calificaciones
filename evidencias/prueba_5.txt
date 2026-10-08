@@ -1,0 +1,49 @@
+ENTRADAS: '4\n1\ntexto\n101\n70\n3\n5\n'
+
+SISTEMA DE CALIFICACIONES
+Capítulo IX - Arreglos y vectores
+Se aprueba con 70 puntos o más.
+
+VECTOR: [85, 67, 92, 74, 58]
+[0] Ana: 85 - Aprobado
+[1] Luis: 67 - Reprobado
+[2] Carlos: 92 - Aprobado
+[3] María: 74 - Aprobado
+[4] Pedro: 58 - Reprobado
+
+1. Mostrar calificaciones
+2. Consultar por índice
+3. Mostrar estadísticas
+4. Modificar una calificación
+5. Salir
+Seleccione una opción: Índice a modificar (0-4): Nueva calificación (0-100): Entrada inválida. Escriba un número entero.
+Nueva calificación (0-100): Ingrese un valor entre 0 y 100.
+Nueva calificación (0-100): Nota de Luis modificada: 67 -> 70
+
+VECTOR: [85, 70, 92, 74, 58]
+[0] Ana: 85 - Aprobado
+[1] Luis: 70 - Aprobado
+[2] Carlos: 92 - Aprobado
+[3] María: 74 - Aprobado
+[4] Pedro: 58 - Reprobado
+
+1. Mostrar calificaciones
+2. Consultar por índice
+3. Mostrar estadísticas
+4. Modificar una calificación
+5. Salir
+Seleccione una opción: 
+Promedio: 75.80
+Calificación más alta: 92
+Calificación más baja: 58
+Aprobados: 4
+Reprobados: 1
+
+1. Mostrar calificaciones
+2. Consultar por índice
+3. Mostrar estadísticas
+4. Modificar una calificación
+5. Salir
+Seleccione una opción: 
+VECTOR FINAL: [85, 70, 92, 74, 58]
+Programa finalizado correctamente.
